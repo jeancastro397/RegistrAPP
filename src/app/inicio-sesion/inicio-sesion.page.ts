@@ -17,7 +17,7 @@ export class InicioSesionPage implements OnInit {
       username: 'MarioPlumber123',
       contrasenia: 'pass123',
       nombres: 'Mario',
-      apellidos: 'Mario',
+      apellidos: 'Bros',
       tipo_usuario: 'docente',
     },
     {
